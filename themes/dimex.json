@@ -231,7 +231,7 @@
       "name": "Function, Special Method, Block Level",
       "scope": "entity.name.function, support.function, variable.function, keyword.other.special-method, meta.block-level",
       "settings": {
-        "foreground": "#74a8db"
+        "foreground": "#7ea6cc"
       }
     },
     {
@@ -395,7 +395,7 @@
       "name": "Number, Constant, Function Argument, Tag Attribute, Embedded",
       "scope": "constant.numeric, constant.language, support.constant, constant.character, keyword.other.unit",
       "settings": {
-        "foreground": "#96b8d4"
+        "foreground": "#9bb6c9"
       }
     },
     {
@@ -443,7 +443,7 @@
       "name": "Function, Special Method",
       "scope": "variable.other.object.property, support.variable.property.dom",
       "settings": {
-        "foreground": "#93b7f5"
+        "foreground": "#9baed1"
       }
     },
     {
