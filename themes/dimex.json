@@ -110,7 +110,8 @@
     "scrollbarSlider.activeBackground": "#747d9180",
     "scrollbarSlider.background": "#4e566680",
     "scrollbarSlider.hoverBackground": "#5a637580",
-    "settings.headerForeground": "#52a362",
+    "settings.headerForeground": "#6485a1",
+    // "settings.headerForeground": "#64a18d",
     "sideBar.background": "#181f29",
     "sideBar.border": "#1d2530",
     "sideBar.foreground": "#959ca6",
@@ -266,7 +267,7 @@
       "name": "String, Symbols, Markup Heading",
       "scope": "string, constant.other.symbol, constant.other.key, markup.heading, markup.inserted.git_gutter, meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
       "settings": {
-        "foreground": "#8abf8d"
+        "foreground": "#8ebd90"
       }
     },
     {
@@ -450,7 +451,7 @@
       "name": "Class, Support",
       "scope": "entity.name.class, entity.other.inherited-class, entity.name.type, entity.name.type.class, support.type, support.class, support.orther.namespace.use.php, meta.use.php, support.other.namespace.php, markup.changed.git_gutter",
       "settings": {
-        "foreground": "#bfbf97"
+        "foreground": "#bfbf9d"
       }
     },
     {
