@@ -239,7 +239,7 @@
       "name": "Meta",
       "scope": ["meta.object-literal.key"],
       "settings": {
-        "foreground": "#a1a7ad"
+        "foreground": "#ababab"
       }
     },
     {
@@ -471,6 +471,13 @@
       "scope": ["keyword.operator.assignment"],
       "settings": {
         "foreground": "#a1a7ad"
+      }
+    },
+    {
+      "name": "Go keywords",
+      "scope": ["keyword", "keyword.other", "storage"],
+      "settings": {
+        "foreground": "#C5A5C5"
       }
     },
     {
